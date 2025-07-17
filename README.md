@@ -28,7 +28,13 @@ This repository contains a fun and interactive **Number Guessing Game** built us
 - Java Swing (for GUI version)
 - Object-Oriented Programming
 - Event-Driven Programming
+## 📸 Screenshots
 
+### Console Version Output
+![Console Version](Guessinggame.png)
+
+### GUI Version Interface
+![GUI Version](screenshots/SwingGUI.png)
 
 
 
