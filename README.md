@@ -31,7 +31,7 @@ This repository contains a fun and interactive **Number Guessing Game** built us
 ## 📸 Screenshots
 
 ### Console Version Output
-![Console Version](Guessinggame.png)
+![Console Version](screenshots/Guessinggame.png)
 
 ### GUI Version Interface
 ![GUI Version](screenshots/SwingGUI.png)
